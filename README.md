@@ -5,7 +5,5 @@ A curated collection of my certifications showcasing skills in IoT, programming,
 
 Won II Prize, Cash(250) at RVS College of Engineering and Technology
 
-![RVS Certificate](certificates/rvs.png)
-
-![RVS Photo](certificates/rvspic.png)
-
+<img src="certificates/rvs.png" width="400"/>
+<img src="certificates/rvspic.png" width="400"/>
