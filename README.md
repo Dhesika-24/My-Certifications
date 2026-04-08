@@ -7,3 +7,8 @@ Won II Prize, Cash(250) at RVS College of Engineering and Technology
 ![RVS Certificate](rvs.png)
 
 ![RVS Photo](rvspic.png)
+
+## TNWIS Hakathon
+Won a special mention prize ,cash(10000) at Kumaraguru College of Technology
+![tnwis certificate](tnwiscertificate.png)
+![tnwis photo](tnwis.png)
